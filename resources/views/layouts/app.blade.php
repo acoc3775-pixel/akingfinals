@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Mono&display=swap" rel="stylesheet">
 
     {{-- Main stylesheet --}}
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}?v=2">
 </head>
 <body>
 
@@ -54,3 +54,4 @@
 
 </body>
 </html>
+fonts.googleapis.com
